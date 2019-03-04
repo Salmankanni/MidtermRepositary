@@ -1,6 +1,6 @@
 .logo {
-  width: 10%;
-  height: 10%; }
+  width: 20%;
+  height: 5%; }
 
 .column {
   float: none;
@@ -32,3 +32,8 @@ footer {
   background-color: black;
   color: white;
   margin-top: 15px; }
+
+.column1 {
+  float: left;
+  width: 40%;
+  padding: 5px; }
