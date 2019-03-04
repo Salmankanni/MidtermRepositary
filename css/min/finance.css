@@ -1,0 +1,16 @@
+.logo{
+  width: 20%;
+  height: 5%;
+}
+ .fn{
+ padding-left: 7px;
+ text-align: center;
+ color: blue;
+ margin-top: 10px;
+ }
+ footer{
+   text-align: center;
+   background-color: black;
+   color:white;
+   margin-top: 15px;
+ }

@@ -1,0 +1,19 @@
+.col-sm{
+  margin-top: 10px;
+}
+.logo{
+  width: 20%;
+  height: 5%;
+}
+footer{
+  text-align: center;
+  background-color: black;
+  color:white;
+  margin-top: 15px;
+}
+.cp{
+padding-left: 7px;
+text-align: center;
+color: blue;
+margin-top: 10px;
+}
